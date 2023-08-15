@@ -149,6 +149,8 @@
                 <div class="card-body d-flex justify-content-evenly align-items-center">
                   <span class="material-symbols-outlined"> more_horiz </span>
                   <p class="m-0">Create Invoice</p>
+                </div>
+              </div>
             </div>
             <div class="col-4">
               <div class="card border-min hov-primary">
